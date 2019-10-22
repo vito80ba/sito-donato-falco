@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Donato Falco
-tagline:          'Compositore e Direttore'
-description:      'Compositore e Direttore'
+title:            Test website
+tagline:          'Asd asd'
+description:      'Asd asd'
 url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
+baseurl:          '/donatofalco'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,8 +15,9 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Vito Falco'
+  url:            https://vitofalco.com
+
 
 paginate:         5
 # paginate_path:    '/page:num'

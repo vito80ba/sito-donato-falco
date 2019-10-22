@@ -6,3 +6,11 @@ $sidebar-bg-color: #315c5d;
 $link-color: #65a7a9;
 
 @import "hydeout";
+
+
+body {
+    background-image: url(../images/music.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
