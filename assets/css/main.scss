@@ -8,9 +8,14 @@ $link-color: #65a7a9;
 @import "hydeout";
 
 
-body {
-    background-image: url(../images/music.jpg);
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: contain;
+.ascolta, .acquista {
+    text-transform: uppercase;
+    font-size: 12px;
+    width: 100%;
+}
+.acquista {
+    margin-top: 6px;
+}
+.copy {
+    font-size: 10px;
 }
