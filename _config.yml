@@ -3,20 +3,19 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Test website
-tagline:          'Asd asd'
-description:      'Asd asd'
-url:              https://fongandrew.github.io
-baseurl:          '/donatofalco'
+title:            'Donato Falco'
+tagline:          'Donato Falco'
+description:      'Direttore e compositore'
+url:              http://donatofalco.it
+lang:             'it_IT'
+google_analytics: 'UA-57955958-4'
+#baseurl:          '/donatofalco'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:
-  name:           'Vito Falco'
-  url:            https://vitofalco.com
 
 
 paginate:         5
@@ -27,6 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Sidebar link settings
 sidebar_home_link:  true

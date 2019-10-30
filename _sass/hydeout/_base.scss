@@ -103,10 +103,18 @@ button, input[type="submit"] {
 }
 
 .image-left {
-  float: left;
-  margin: 0 10px 0 0;
+  max-width: 100%;
+  
+  @media (min-width: $large-breakpoint) {
+    float: left;
+    margin: 0 10px 0 0;
+  }
 }
 .image-right {
+  max-width: 100%;
+
+  @media (min-width: $large-breakpoint) {
   float: right;
   margin: 0 0 0 10px;
+  }
 }

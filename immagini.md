@@ -2,6 +2,7 @@
 layout: page
 title: Immagini
 sidebar_link: true
+lang: 'it_IT'
 images:
   - name: risorse/immagini/donato-falco.jpeg
     title: Foto Profilo
