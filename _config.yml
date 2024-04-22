@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            'Donato Falco'
 tagline:          'Donato Falco'
 description:      'Direttore e compositore'
-url:              http://www.donatofalco.it
+url:              https://www.donatofalco.it
 lang:             'it_IT'
 google_analytics: 'UA-57955958-4'
 #baseurl:          '/donatofalco'
